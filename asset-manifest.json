@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/bit08react/static/css/main.c2cab247.css",
-    "main.js": "/bit08react/static/js/main.81555f26.js",
-    "static/js/787.673cccc8.chunk.js": "/bit08react/static/js/787.673cccc8.chunk.js",
-    "static/media/logo.svg": "/bit08react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/bit08react/static/css/main.94a3116e.css",
+    "main.js": "/bit08react/static/js/main.fbb9986e.js",
     "index.html": "/bit08react/index.html",
-    "main.c2cab247.css.map": "/bit08react/static/css/main.c2cab247.css.map",
-    "main.81555f26.js.map": "/bit08react/static/js/main.81555f26.js.map",
-    "787.673cccc8.chunk.js.map": "/bit08react/static/js/787.673cccc8.chunk.js.map"
+    "main.94a3116e.css.map": "/bit08react/static/css/main.94a3116e.css.map",
+    "main.fbb9986e.js.map": "/bit08react/static/js/main.fbb9986e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cab247.css",
-    "static/js/main.81555f26.js"
+    "static/css/main.94a3116e.css",
+    "static/js/main.fbb9986e.js"
   ]
 }
